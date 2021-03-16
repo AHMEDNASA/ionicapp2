@@ -10,7 +10,7 @@ node_modules/*
 node_modules/@capacitor/*
 
 
-*~
+
 *.sw[mnpcod]
 .tmp
 *.tmp
