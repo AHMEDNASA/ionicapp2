@@ -1,1 +1,8 @@
-{}
+{
+    "appId":"com.eaqaba.ios",
+    "appName":"eaqaba",
+    "bundleWebRuntime":false,
+    "npmClient":"npm",
+    "webDir":"build",
+    "cordova":{}
+}
